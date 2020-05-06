@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@vue/cli-service": "^4.1.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "node-sass": "^4.13.1",
     "px2rem-loader": "^0.1.9",
     "sass-loader": "^8.0.2",
