@@ -76,6 +76,7 @@ export default new Router({
 		}
 
 	],
+	base:'/dist',
 	mode: 'history',
 	scrollBehavior(to, from, savedPosition) {
 		if (savedPosition) {
