@@ -42,7 +42,7 @@ module.exports = {
        }
     },*/
    // 地址的起点
-    publicPath:"/",
+    publicPath:"./",
     productionSourceMap:false,
     chainWebpack:config=>{
             /*config.externals={
