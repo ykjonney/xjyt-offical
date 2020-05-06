@@ -1,0 +1,62 @@
+{
+  "name": "xjyt-official",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "babel-polyfill": "^6.26.0",
+    "bootstrap": "^4.4.1",
+    "bootstrap-vue": "^2.11.0",
+    "core-js": "^3.6.4",
+    "echarts": "^4.6.0",
+    "element-ui": "^2.13.0",
+    "install": "^0.13.0",
+    "lib-flexible": "^0.3.2",
+    "moment": "^2.24.0",
+    "postcss-px2rem": "^0.3.0",
+    "qrcode": "^1.4.4",
+    "qrcodejs2": "0.0.2",
+    "sass-loader": "^8.0.2",
+    "swiper": "^5.3.6",
+    "vue": "^2.6.10",
+    "vue-awesome-swiper": "^3.1.3",
+    "vue-baidu-map": "^0.21.22",
+    "vue-router": "^3.1.3"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.1.0",
+    "jquery": "^3.4.1",
+    "node-sass": "^4.13.1",
+    "px2rem-loader": "^0.1.9",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "es6": true,
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "description": "```\r npm install\r ```",
+  "main": "babel.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
