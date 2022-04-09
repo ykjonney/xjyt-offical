@@ -17,7 +17,7 @@
     "element-ui": "^2.13.0",
     "install": "^0.13.0",
     "lib-flexible": "^0.3.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "postcss-px2rem": "^0.3.0",
     "qrcode": "^1.4.4",
     "qrcodejs2": "0.0.2",
